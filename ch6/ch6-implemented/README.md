@@ -1,7 +1,7 @@
-# Implemented
+# 구현됨 (Implemented)
 
-## Overview
+## 개요
 
-This is the second implementation of the 'builder' macro from chapter 6.
+이것은 6장의 'builder' 매크로의 두 번째 구현입니다.
 
-It demonstrates the macro setup with three directories, a real implementation of the builder, white-box and black-box unit testing.
+이것은 세 개의 디렉토리가 있는 매크로 설정, 빌더의 실제 구현, 화이트박스 및 블랙박스 단위 테스트를 보여줍니다.

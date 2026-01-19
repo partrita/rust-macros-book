@@ -1,5 +1,5 @@
 # My Vec
 
-## Overview
+## 개요
 
-This is the first example program from the declarative macros chapter. It creates a macro that works very much like the standard library `vec!` macro.
+이것은 선언적 매크로 챕터의 첫 번째 예제 프로그램입니다. 표준 라이브러리의 `vec!` 매크로와 매우 유사하게 작동하는 매크로를 생성합니다.

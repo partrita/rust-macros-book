@@ -1,7 +1,7 @@
-# Start
+# 시작
 
-## Overview
+## 개요
 
-This is the first implementation of the 'config' macro from chapter 10.
+이것은 10장의 'config' 매크로의 첫 번째 구현입니다.
 
-In this phase, we have a function-like macro with proper testing and error-handling, but nothing else.
+이 단계에서는 적절한 테스트와 오류 처리가 있는 함수형 매크로를 가지고 있지만, 그 외에는 아무것도 없습니다.

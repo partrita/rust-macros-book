@@ -1,5 +1,5 @@
-# Testing function
+# 테스트 함수
 
-## Overview
+## 개요
 
-This is the solution to the 'testing function' exercise from chapter 3, where you have to add an associated function called `testing_testing` to the derive output.
+이것은 3장의 '테스트 함수' 연습 문제에 대한 해답으로, derive 출력에 `testing_testing`이라는 연관 함수를 추가해야 합니다.

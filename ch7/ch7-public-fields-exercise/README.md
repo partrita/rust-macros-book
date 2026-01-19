@@ -1,7 +1,7 @@
-# Public fields 
+# 공개(Public) 필드
 
-## Overview
+## 개요
 
-This is the solution to the exercise from chapter 7 where we ask you to mutate the `TokenStream` instead of creating a new one.
+이것은 7장의 연습 문제에 대한 해답으로, 새로운 `TokenStream`을 생성하는 대신 `TokenStream`을 변경(mutate)하도록 요청합니다.
 
-We use the project setup from chapter 4, where this macro was first introduced.
+우리는 이 매크로가 처음 소개되었던 4장의 프로젝트 설정을 사용합니다.

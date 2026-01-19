@@ -1,5 +1,5 @@
-# Implemented
+# 구현됨 (Implemented)
 
-## Overview
+## 개요
 
-This is the implemented 'Hello world' derive macro example for chapter 3.
+이것은 3장을 위해 구현된 'Hello world' derive 매크로 예제입니다.

@@ -1,5 +1,5 @@
-# Fill in the blanks
+# 빈칸 채우기
 
-## Overview
+## 개요
 
-This is the solution to the 'fill in the blanks' exercise from chapter 3.
+이것은 3장의 '빈칸 채우기' 연습 문제에 대한 해답입니다.

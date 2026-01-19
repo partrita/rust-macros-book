@@ -1,5 +1,5 @@
-# Public macro (first implementation)
+# Public 매크로 (첫 번째 구현)
 
-## Overview
+## 개요
 
-This is the first implementation of the 'public' attribute macro from chapter 4.
+이것은 4장의 'public' 속성 매크로의 첫 번째 구현입니다.

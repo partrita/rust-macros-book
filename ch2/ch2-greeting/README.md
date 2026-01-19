@@ -1,5 +1,5 @@
-# Greeting
+# 인사 (Greeting)
 
-## Overview
+## 개요
 
-This example, from the 'use cases' section of the declarative macros chapter, shows how we can use macros to 'simulate' varargs and default arguments.
+선언적 매크로 챕터의 '사용 사례' 섹션에 있는 이 예제는 매크로를 사용하여 가변 인자와 기본 인자를 '시뮬레이션'하는 방법을 보여줍니다.

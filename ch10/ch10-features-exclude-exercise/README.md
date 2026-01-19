@@ -1,5 +1,5 @@
-# Exclude feature
+# Exclude 기능
 
-## Overview
+## 개요
 
-This is the solution to the exercise from chapter 10 where we ask you to use features to exclude the `From` generation.
+이것은 10장의 연습 문제에 대한 해답으로, `From` 생성을 제외하기 위해 기능을 사용하는 방법을 묻습니다.

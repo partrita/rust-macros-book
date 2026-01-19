@@ -1,7 +1,7 @@
-# First Program
+# 첫 번째 프로그램
 
-## Overview
+## 개요
 
-This is the example program from the start of the book (chapter 1, the introduction).
+이것은 책의 시작 부분(1장, 소개)에 나오는 예제 프로그램입니다.
 
-It tries to show just how ubiquitous macros are in the Rust world: even a simple program with less than 40 lines of code might use multiple declarative and procedural macros for accomplishing relatively simple things!
+이것은 Rust 세계에서 매크로가 얼마나 널리 사용되는지 보여줍니다. 코드가 40줄 미만인 간단한 프로그램조차도 비교적 간단한 작업을 수행하기 위해 여러 선언적 매크로와 절차적 매크로를 사용할 수 있습니다!

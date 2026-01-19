@@ -1,7 +1,7 @@
-# Setup
+# 설정 (Setup)
 
-## Overview
+## 개요
 
-This is the first implementation of the 'panic-to-result' macro from chapter 7.
+이것은 7장의 'panic-to-result' 매크로의 첫 번째 구현입니다.
 
-It demonstrates the project setup we will be using in this chapter. Apart from that, it does not do anything, except returning the existing code and verifying the behavior that we will change later on.
+이것은 이 장에서 사용할 프로젝트 설정을 보여줍니다. 그 외에는 기존 코드를 반환하고 나중에 변경할 동작을 확인하는 것 외에는 아무것도 수행하지 않습니다.

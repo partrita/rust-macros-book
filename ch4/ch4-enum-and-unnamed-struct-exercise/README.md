@@ -1,9 +1,9 @@
-# Enum and unnamed struct 
+# 열거형(Enum)과 이름 없는 구조체(Unnamed Struct)
 
-## Overview
+## 개요
 
-This is the combined solution to several exercises from chapter 4, where we ask you to:
+이것은 4장의 여러 연습 문제에 대한 통합된 해답으로, 다음을 요청합니다:
 
-- Handle unnamed fields
-- Handle enums
-- Keep existing attributes (instead of losing them)
+- 이름 없는 필드 처리
+- 열거형(enum) 처리
+- (삭제하는 대신) 기존 속성 유지

@@ -1,5 +1,5 @@
-# Initial Code
+# 초기 코드
 
-## Overview
+## 개요
 
-This is the initial code for chapter 3, a working 'Hello world' derive macro that doesn't do anything.
+이것은 3장의 초기 코드로, 아무것도 수행하지 않지만 작동하는 'Hello world' derive 매크로입니다.

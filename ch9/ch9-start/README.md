@@ -1,7 +1,7 @@
-# Start
+# 시작 (Start)
 
-## Overview
+## 개요
 
-This is the first implementation of the 'iac' macro from chapter 9.
+이것은 9장의 'iac' 매크로의 첫 번째 구현입니다.
 
-In this phase, we are only parsing the input without doing anything with it.
+이 단계에서는 입력을 아무것도 하지 않고 파싱하기만 합니다.

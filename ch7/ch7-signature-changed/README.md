@@ -1,7 +1,7 @@
-# Signature changed
+# 서명 변경됨 (Signature changed)
 
-## Overview
+## 개요
 
-This is the second implementation of the 'panic-to-result' macro from chapter 7.
+이것은 7장의 'panic-to-result' 매크로의 두 번째 구현입니다.
 
-It shows how we change the signature of the function as well as the final return.
+이것은 함수의 서명과 최종 반환값을 어떻게 변경하는지 보여줍니다.

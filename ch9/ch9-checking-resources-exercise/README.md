@@ -1,5 +1,5 @@
-# Checking resources
+# 리소스 확인
 
-## Overview
+## 개요
 
-This is the solution to the exercise from chapter 9 where we ask you to check whether the requested resources exist before trying to create them.
+이것은 9장의 연습 문제에 대한 해답으로, 요청된 리소스를 생성하기 전에 해당 리소스가 존재하는지 확인하도록 요청합니다.

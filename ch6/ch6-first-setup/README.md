@@ -1,7 +1,7 @@
-# First setup
+# 첫 번째 설정
 
-## Overview
+## 개요
 
-This is the first implementation of the 'builder' macro from chapter 6.
+이것은 6장의 'builder' 매크로의 첫 번째 구현입니다.
 
-It demonstrates the macro setup with three directories, and white-box unit testing.
+이것은 세 개의 디렉토리가 있는 매크로 설정과 화이트박스 단위 테스트를 보여줍니다.

@@ -1,7 +1,7 @@
-# Documentation
+# 문서화
 
-## Overview
+## 개요
 
-This is the fourth implementation of the 'config' macro from chapter 10.
+이것은 10장의 'config' 매크로의 네 번째 구현입니다.
 
-In this phase, we add documentation and some publish info
+이 단계에서는 문서화와 몇 가지 배포 정보를 추가합니다.

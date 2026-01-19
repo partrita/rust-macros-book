@@ -1,5 +1,5 @@
-# DSL Exercise
+# DSL 연습 문제
 
-## Overview
+## 개요
 
-This is the solution to the DSL exercise, where you expand the DSL with the notion of currency (dollars and euros).
+이것은 DSL 연습 문제에 대한 해답으로, DSL을 통화(달러와 유로) 개념으로 확장합니다.

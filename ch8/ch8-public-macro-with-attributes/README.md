@@ -1,7 +1,7 @@
-# Public macro with attributes
+# 속성이 포함된 Public 매크로
 
-## Overview
+## 개요
 
-This is the code for the 'public' macro from chapter 8, where we show how you can add properties to the custom attribute that you get when creating an attribute macro.
+이것은 8장의 'public' 매크로 코드로, 속성 매크로를 생성할 때 얻는 커스텀 속성에 속성을 추가하는 방법을 보여줍니다.
 
-The setup is that of chapter 4, where this macro first appeared.
+설정은 이 매크로가 처음 등장했던 4장의 설정과 같습니다.

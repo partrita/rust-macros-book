@@ -1,5 +1,5 @@
-# Uppercase
+# 대문자 변환 (Uppercase)
 
-## Overview
+## 개요
 
-This is the solution to the exercise from chapter 8 where we ask you to add an 'uppercase' attribute to our macro, to uppercase `String` properties.
+이것은 8장의 연습 문제에 대한 해답으로, `String` 속성을 대문자로 변환하기 위해 'uppercase' 속성을 매크로에 추가하도록 요청합니다.

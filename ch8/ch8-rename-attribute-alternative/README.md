@@ -1,5 +1,5 @@
-# Rename attribute alternative
+# 이름 변경(Rename) 속성 대안
 
-## Overview
+## 개요
 
-This is the code for the 'builder' macro from chapter 8, where we show an alternative way to add a rename attribute (using a 'name-value' instead of a 'list')
+이것은 8장의 'builder' 매크로 코드로, 이름 변경 속성을 추가하는 대안적인 방법('list' 대신 'name-value' 사용)을 보여줍니다.
