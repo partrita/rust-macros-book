@@ -1,5 +1,5 @@
-# Name to output
+# 이름을 출력으로
 
-## Overview
+## 개요
 
-This is the solution to the 'name to output' exercise from chapter 3, where you have to output the name of the struct in the generated `hello_world` method.
+이것은 3장의 '이름을 출력으로' 연습 문제에 대한 해답으로, 생성된 `hello_world` 메소드에서 구조체의 이름을 출력해야 합니다.

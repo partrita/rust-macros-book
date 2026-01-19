@@ -1,5 +1,5 @@
-# Build back better
+# 더 나은 빌드 (Build back better)
 
-## Overview
+## 개요
 
-This is the code for the 'type state' example from chapter 8.
+이것은 8장의 '타입 상태(type state)' 예제 코드입니다.

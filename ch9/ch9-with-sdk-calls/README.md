@@ -1,7 +1,7 @@
-# With SDK Calls
+# SDK 호출 포함 (With SDK Calls)
 
-## Overview
+## 개요
 
-This is the final implementation of the 'iac' macro from chapter 9.
+이것은 9장의 'iac' 매크로의 최종 구현입니다.
 
-We now actually call the AWS SDK to create the requested resources. We use the original parsing, not the alternatives.
+우리는 이제 요청된 리소스를 생성하기 위해 실제로 AWS SDK를 호출합니다. 우리는 대안이 아닌 원본 파싱을 사용합니다.

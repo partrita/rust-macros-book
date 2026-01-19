@@ -1,5 +1,5 @@
-# Trace Macros
+# 추적 매크로 (Trace Macros)
 
-## Overview
+## 개요
 
-This example shows how you can use trace macros to get insight into how your macros are expanded.
+이 예제는 매크로가 어떻게 확장되는지 통찰력을 얻기 위해 추적 매크로를 사용하는 방법을 보여줍니다.

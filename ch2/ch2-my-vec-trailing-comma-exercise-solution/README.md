@@ -1,5 +1,5 @@
-# My Vec Trailing Comma
+# My Vec 후행 쉼표 (Trailing Comma)
 
-## Overview
+## 개요
 
-This is the solution to the trailing comma exercise, where you allow the use of trailing commas in the `my_vec` macro.
+이것은 후행 쉼표 연습 문제에 대한 해답으로, `my_vec` 매크로에서 후행 쉼표 사용을 허용합니다.

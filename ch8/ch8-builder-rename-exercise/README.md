@@ -1,5 +1,5 @@
-# Builder rename
+# Builder 이름 변경 (Rename)
 
-## Overview
+## 개요
 
-This is the solution to the exercise from chapter 8 where we ask you to rewrite the `#[rename("...")]` attribute to instead look like `#[builder(rename = "...")]`.
+이것은 8장의 연습 문제에 대한 해답으로, `#[rename("...")]` 속성을 `#[builder(rename = "...")]`와 같이 보이도록 재작성하도록 요청합니다.

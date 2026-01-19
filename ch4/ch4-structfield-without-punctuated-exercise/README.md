@@ -1,5 +1,5 @@
-# StructField without Punctuated 
+# Punctuated 없는 StructField
 
-## Overview
+## 개요
 
-This is the solution to the exercise from chapter 4 where we ask you to parse the fields without using `Punctuated`.
+이것은 4장의 연습 문제에 대한 해답으로, `Punctuated`를 사용하지 않고 필드를 파싱하도록 요청합니다.

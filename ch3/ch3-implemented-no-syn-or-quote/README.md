@@ -1,5 +1,5 @@
 # Venial
 
-## Overview
+## 개요
 
-This example shows how you could have written the 'Hello world' derive macro (from chapter 3) without `syn` and `quote`.
+이 예제는 `syn`과 `quote` 없이 'Hello world' derive 매크로(3장)를 작성할 수 있었던 방법을 보여줍니다.

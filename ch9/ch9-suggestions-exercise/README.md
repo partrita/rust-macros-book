@@ -1,5 +1,5 @@
-# Suggestions
+# 제안 (Suggestions)
 
-## Overview
+## 개요
 
-This is the solution to the exercise from chapter 9 where we ask you to suggest the right resource in case of a type (using, in this case, Levenshtein distance).
+이것은 9장의 연습 문제에 대한 해답으로, 오타가 발생한 경우 올바른 리소스를 제안하도록 요청합니다 (이 경우 레벤슈타인 거리를 사용).

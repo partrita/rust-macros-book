@@ -1,5 +1,5 @@
-# Syn errors
+# Syn 오류
 
-## Overview
+## 개요
 
-This is the solution to the exercise from chapter 7 where we ask you to change the `unimplemented` panic to `syn::Error`.
+이것은 7장의 연습 문제에 대한 해답으로, `unimplemented` 패닉을 `syn::Error`로 변경하도록 요청합니다.

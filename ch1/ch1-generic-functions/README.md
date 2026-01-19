@@ -1,6 +1,6 @@
-# Generic functions
+# 제네릭 함수
 
-## Overview
+## 개요
 
-We briefly discuss generics and blanket implementations in chapter 1.
-This is the code that we show in that context.
+우리는 1장에서 제네릭과 포괄적 구현(blanket implementations)에 대해 간략하게 논의합니다.
+이것은 그 맥락에서 보여주는 코드입니다.

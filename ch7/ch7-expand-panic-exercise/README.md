@@ -1,5 +1,5 @@
-# Expand Panic
+# Panic 확장
 
-## Overview
+## 개요
 
-This is the solution to the exercise from chapter 7 where we ask you to also detect panics in `while` expressions.
+이것은 7장의 연습 문제에 대한 해답으로, `while` 표현식 내의 패닉(panic)도 감지하도록 요청합니다.

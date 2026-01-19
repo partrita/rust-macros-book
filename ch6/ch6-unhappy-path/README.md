@@ -1,7 +1,7 @@
-# Unhappy path
+# 불행한 경로 (Unhappy path)
 
-## Overview
+## 개요
 
-This is the final implementation of the 'builder' macro from chapter 6.
+이것은 6장의 'builder' 매크로의 최종 구현입니다.
 
-The main difference with the refactored version, is that this one also has failure/compilation tests in the `builder-usage/tests` folder.
+리팩토링된 버전과의 주요 차이점은 이것이 `builder-usage/tests` 폴더에 실패/컴파일 테스트도 가지고 있다는 것입니다.

@@ -1,7 +1,7 @@
-# Second Macro
+# 두 번째 매크로
 
-## Overview
+## 개요
 
-This is the second implementation of the 'config' macro from chapter 10.
+이것은 10장의 'config' 매크로의 두 번째 구현입니다.
 
-In this phase, we add a second macro to the project.
+이 단계에서는 프로젝트에 두 번째 매크로를 추가합니다.

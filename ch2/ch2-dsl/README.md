@@ -1,5 +1,5 @@
 # DSL
 
-## Overview
+## 개요
 
-This example, from the 'use cases' section of the declarative macros chapter, shows how we can use macros to create a *simple* DSL for transferring money in a readable way.
+선언적 매크로 챕터의 '사용 사례' 섹션에 있는 이 예제는 매크로를 사용하여 읽기 쉬운 방식으로 돈을 이체하기 위한 *간단한* DSL을 만드는 방법을 보여줍니다.

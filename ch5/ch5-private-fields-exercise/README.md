@@ -1,5 +1,5 @@
-# Private fields 
+# 비공개(Private) 필드
 
-## Overview
+## 개요
 
-This is the solution to the exercise from chapter 5 where we ask you to set the fields of a struct to private. In addition, you should generate public methods to access those fields.
+이것은 5장의 연습 문제에 대한 해답으로, 구조체의 필드를 비공개(private)로 설정하도록 요청합니다. 또한 해당 필드에 접근하기 위한 공개(public) 메소드를 생성해야 합니다.

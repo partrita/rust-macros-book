@@ -1,5 +1,5 @@
-# Error for defaults
+# 기본값 오류 (Error for defaults)
 
-## Overview
+## 개요
 
-This is the code for the 'builder' macro from chapter 8, where we add a 'defaults' attribute and show how to generate a better error when `Default` is not implemented.
+이것은 8장의 'builder' 매크로 코드로, 'defaults' 속성을 추가하고 `Default`가 구현되지 않았을 때 더 나은 오류를 생성하는 방법을 보여줍니다.

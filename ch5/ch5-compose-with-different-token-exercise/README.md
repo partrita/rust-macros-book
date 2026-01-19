@@ -1,5 +1,5 @@
-# Compose with different token 
+# 다른 토큰으로 구성(Compose)하기
 
-## Overview
+## 개요
 
-This is the solution to the exercise from chapter 5 where we ask you to generate a 'hello world' function for a struct, by only passing in the name of your struct.
+이것은 5장의 연습 문제에 대한 해답으로, 구조체의 이름만 전달하여 구조체에 대한 'hello world' 함수를 생성하도록 요청합니다.

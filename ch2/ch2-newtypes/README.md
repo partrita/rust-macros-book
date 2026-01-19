@@ -1,5 +1,5 @@
-# Newtypes
+# 뉴타입(Newtypes)
 
-## Overview
+## 개요
 
-This example, from the 'use cases' section of the declarative macros chapter, shows how we can use macros to avoid newtype boilerplate.
+선언적 매크로 챕터의 '사용 사례' 섹션에 있는 이 예제는 뉴타입 보일러플레이트를 피하기 위해 매크로를 사용하는 방법을 보여줍니다.

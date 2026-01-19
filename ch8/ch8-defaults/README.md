@@ -1,5 +1,5 @@
-# Defaults
+# 기본값 (Defaults)
 
-## Overview
+## 개요
 
-This is the code for the 'builder' macro from chapter 8, where we add a 'defaults' attribute.
+이것은 8장의 'builder' 매크로 코드로, 'defaults' 속성을 추가합니다.

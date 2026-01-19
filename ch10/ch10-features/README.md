@@ -1,7 +1,7 @@
-# Features
+# 기능 (Features)
 
-## Overview
+## 개요
 
-This is the third implementation of the 'config' macro from chapter 10.
+이것은 10장의 'config' 매크로의 세 번째 구현입니다.
 
-In this phase, we add a feature and show how to exclude generation of token streams.
+이 단계에서는 기능을 추가하고 토큰 스트림 생성을 제외하는 방법을 보여줍니다.

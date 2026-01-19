@@ -1,5 +1,5 @@
-# Compose
+# 구성 (Compose)
 
-## Overview
+## 개요
 
-This is the implementation of the 'compose' macro from chapter 5.
+이것은 5장의 'compose' 매크로 구현입니다.

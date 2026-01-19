@@ -1,6 +1,5 @@
-# Other attributes
+# 기타 속성들
 
-## Overview
+## 개요
 
-This is the code from chapter 8, giving a brief demonstration of other attributes (mainly documentation related)
-
+이것은 8장의 코드로, 다른 속성들(주로 문서화 관련)에 대한 간단한 시연을 제공합니다.

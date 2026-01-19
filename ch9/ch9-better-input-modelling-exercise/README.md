@@ -1,5 +1,5 @@
-# Better input modelling
+# 더 나은 입력 모델링
 
-## Overview
+## 개요
 
-This is the solution to the exercise from chapter 9 where we ask you to improve the input modeling of `IacInput`.
+이것은 9장의 연습 문제에 대한 해답으로, `IacInput`의 입력 모델링을 개선하도록 요청합니다.

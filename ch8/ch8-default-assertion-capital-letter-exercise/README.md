@@ -1,5 +1,5 @@
-# Capital letter warning
+# 대문자 경고
 
-## Overview
+## 개요
 
-This is the solution to the exercise from chapter 8 where we ask you to fix the `type __notDefaultAssertion should have an upper camel case name` warning.
+이것은 8장의 연습 문제에 대한 해답으로, `type __notDefaultAssertion should have an upper camel case name` 경고를 수정하도록 요청합니다.

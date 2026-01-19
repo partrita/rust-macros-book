@@ -1,5 +1,5 @@
-# StructField (second implementation)
+# StructField (두 번째 구현)
 
-## Overview
+## 개요
 
-This is the second implementation of the 'public' attribute macro from chapter 4, where we use a custom struct (`StructField`) and implement the `ToTokens` trait.
+이것은 4장의 'public' 속성 매크로의 두 번째 구현으로, 커스텀 구조체(`StructField`)를 사용하고 `ToTokens` 트레이트를 구현합니다.
